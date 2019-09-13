@@ -52,9 +52,9 @@ Follow the instructions on the [MongoDB website](https://www.mongodb.org/downloa
 $ npm install
 ````
 
-##Run
+## Run
 
-###MongoDB
+### MongoDB
 
 Make sure you have mongo up & running :
 
